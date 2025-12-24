@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img src="https://files.catbox.moe/w9q3bg.png">
+  <img src="https://files.catbox.moe/ikkq5z.png">
 </div>
 <p align="center">‎  </p>
 <p align="center">w2i. chronic idler. drawing or something. </p>
 <p align="center">⠀ blessed are the meek, for they shall inherit the earth  .   </p
 </div>
 <div align="center">
-  <img width = "40%" src="https://files.catbox.moe/95dmxq.png">
+  <img width = "20%" src="https://files.catbox.moe/8f15j1.png">
 </div>
 <div align="center">
 <p align="center">‎  </p>
 
-![](https://komarev.com/ghpvc/?username=dearzenitsu&label=zenitsu+lovers&style=plastic&color=F56D20&base=399)
+![](https://komarev.com/ghpvc/?username=dearzenitsu&label=lieutenant+lovers&style=plastic&color=7091a2&base=399)
